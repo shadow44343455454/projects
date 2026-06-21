@@ -16,9 +16,9 @@ This is a **simple calculator** made with HTML, CSS, and JavaScript.
 
 [calculator world](#)
 
-##NOTE
+## NOTE
 this a website made by claude AI
-##prompt
+## prompt
 i want a scientific calculator ,in front side i want normal calculator and on the flipped side there should be basic tridonometry functions , reciprocal function , exonential func. and also apply a smooth flip animation
 
 
