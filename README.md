@@ -14,7 +14,7 @@ This is a **simple calculator** made with HTML, CSS, and JavaScript.
 
 ## Website
 
-[calculator world](#)
+[calculator world](https://shadow44343455454.github.io/projects/)
 
 ## NOTE
 this a website made by claude AI
