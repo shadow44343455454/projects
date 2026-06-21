@@ -16,5 +16,5 @@ This is a **simple calculator** made with HTML, CSS, and JavaScript.
 
 [calculator world](#)
 
-## Code Example
+
 
