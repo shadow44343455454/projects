@@ -1,4 +1,20 @@
-# calculator world
+# My Calculator Project
 
-## 🔗My website is live
-👉 [Click here to view the website](#)
+This is a **simple calculator** made with HTML, CSS, and JavaScript.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- basic trigonometric calculation
+- exponential calculation
+- ETC
+
+## Website
+
+[calculator world](#)
+
+## Code Example
+
